@@ -1,0 +1,9 @@
+C:\Users\baxan\Desktop\C# Örnekleri\FORM ÖRNEKLERİ\VeriTabanınaResimEkleme\VeriTabanınaResimEkleme\bin\Debug\VeriTabanınaResimEkleme.exe.config
+C:\Users\baxan\Desktop\C# Örnekleri\FORM ÖRNEKLERİ\VeriTabanınaResimEkleme\VeriTabanınaResimEkleme\bin\Debug\VeriTabanınaResimEkleme.exe
+C:\Users\baxan\Desktop\C# Örnekleri\FORM ÖRNEKLERİ\VeriTabanınaResimEkleme\VeriTabanınaResimEkleme\bin\Debug\VeriTabanınaResimEkleme.pdb
+C:\Users\baxan\Desktop\C# Örnekleri\FORM ÖRNEKLERİ\VeriTabanınaResimEkleme\VeriTabanınaResimEkleme\obj\Debug\VeriTabanınaResimEkleme.csprojResolveAssemblyReference.cache
+C:\Users\baxan\Desktop\C# Örnekleri\FORM ÖRNEKLERİ\VeriTabanınaResimEkleme\VeriTabanınaResimEkleme\obj\Debug\VeriTabanınaResimEkleme.Form1.resources
+C:\Users\baxan\Desktop\C# Örnekleri\FORM ÖRNEKLERİ\VeriTabanınaResimEkleme\VeriTabanınaResimEkleme\obj\Debug\VeriTabanınaResimEkleme.Properties.Resources.resources
+C:\Users\baxan\Desktop\C# Örnekleri\FORM ÖRNEKLERİ\VeriTabanınaResimEkleme\VeriTabanınaResimEkleme\obj\Debug\VeriTabanınaResimEkleme.csproj.GenerateResource.Cache
+C:\Users\baxan\Desktop\C# Örnekleri\FORM ÖRNEKLERİ\VeriTabanınaResimEkleme\VeriTabanınaResimEkleme\obj\Debug\VeriTabanınaResimEkleme.exe
+C:\Users\baxan\Desktop\C# Örnekleri\FORM ÖRNEKLERİ\VeriTabanınaResimEkleme\VeriTabanınaResimEkleme\obj\Debug\VeriTabanınaResimEkleme.pdb
